@@ -1,9 +1,9 @@
-#**UberDataAnalysis**
+# uber data analysis 
 
 
 
 
-**# Uber-data-analysis-project**
+**Uber-data-analysis-project**
 Uber Ride Data Analysis Analyzed Uber ride data to uncover user behavior trends such as peak booking times, top ride categories, and ride frequency by day/month. Cleaned and preprocessed data, handled missing values, and engineered features. Used Matplotlib to visualize key insights and identify actionable business patterns.
 
 This project explores and analyzes Uber ride data using Python with Pandas, NumPy, Matplotlib, and Scikit-learn. The goal of the analysis is to uncover meaningful patterns and trends in user behavior that can provide actionable business insights for ride-hailing services.
