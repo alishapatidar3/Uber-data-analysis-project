@@ -35,6 +35,20 @@ Used **Matplotlib** to visualize trends and findings:
 - 🥧 Pie charts: Ride category popularity
 - 📏 Histograms: Ride distance distribution
 
+- <img width="828" alt="Screenshot 2025-04-17 at 3 37 03 PM" src="https://github.com/user-attachments/assets/0b94597c-f883-485b-bc8b-f7266e3f7cad" />
+
+<img width="784" alt="Screenshot 2025-04-17 at 3 38 05 PM" src="https://github.com/user-attachments/assets/151d08f6-6cce-469f-b901-03c788415f15" />
+
+<img width="784" alt="Screenshot 2025-04-17 at 3 39 10 PM" src="https://github.com/user-attachments/assets/d1bd7142-08c1-45ec-b5fa-dd7a1fa1c551" />
+
+<img width="784" alt="Screenshot 2025-04-17 at 3 39 00 PM" src="https://github.com/user-attachments/assets/940a2f0f-03a8-483e-bdc7-eec4a136ffd2" />
+
+<img width="784" alt="Screenshot 2025-04-17 at 3 38 50 PM" src="https://github.com/user-attachments/assets/d0311db0-5022-4a4a-8e81-c61399a71f8c" />
+
+
+
+
+
 ---
 
 ## 🔍 Business Insights
@@ -69,7 +83,5 @@ Used **Matplotlib** to visualize trends and findings:
 - Jupyter Notebook
 
 ---
-
-## 📁 Project Structure
 
 
